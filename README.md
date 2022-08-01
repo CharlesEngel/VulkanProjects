@@ -10,3 +10,5 @@ Then create a directory called "third party" and place the source code for the l
 Finally, go to the build directory and run "make deferred" for the deferred rendering project or run "make ao" for the ambient occlusion project.
 
 Output file will be named "app"
+
+Models and textures were taken from online and are not my own.
